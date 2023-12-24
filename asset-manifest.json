@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/neyesek/static/css/main.f855e6bc.css",
+    "main.js": "/neyesek/static/js/main.d202a60f.js",
+    "static/js/787.7cd21eb0.chunk.js": "/neyesek/static/js/787.7cd21eb0.chunk.js",
+    "static/media/logo.svg": "/neyesek/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/neyesek/index.html",
+    "main.f855e6bc.css.map": "/neyesek/static/css/main.f855e6bc.css.map",
+    "main.d202a60f.js.map": "/neyesek/static/js/main.d202a60f.js.map",
+    "787.7cd21eb0.chunk.js.map": "/neyesek/static/js/787.7cd21eb0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.d202a60f.js"
+  ]
+}
